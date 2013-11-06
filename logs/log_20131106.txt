@@ -1,0 +1,2 @@
+2013 11 06 04:49:37|classes/classes.Database.php||Connected to MySQL database.
+2013 11 06 04:49:37|starting script

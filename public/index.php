@@ -2,9 +2,18 @@
 	// controller
 	require_once( "../classes/classes.Authorization.php"  );
 	require_once( "../classes/classes.Session.php" );
+	require_once( "../classes/classes.Database.php" );
+    require_once( "../classes/classes.Logging.php" );
+	
+	$Database	   = new TDatabase();
 	$Session       = new TSession();	
 	$Authorization = new TAuthorization();
-	$ControllerVars['loggedin'] = 0;		
+	$Logging	   = new TLogging();
+	
+	$Logging->log( 'starting script' );
+
+	$ControllerVars['loggedin'] = 0;
+
 	if( $Authorization -> isAuthorized() )
 		$ControllerVars['loggedin'] = 1;
 	else{
@@ -18,6 +27,7 @@
 			}
 		}
 	}	
+
 	if( $ControllerVars['loggedin'] == 0 )
 		$Authorization -> DisplayLoginForm();
 
