@@ -6,15 +6,14 @@
 		function init(){
 			$this->Database = new TDatabase();
 			if(!isset($_POST['submit'])){
+				$this->CreateContent();
 				$this->DisplayContent();					
 			}				
 		}
 
 		function handleFormSubmission(){
-//			$sqlQuery = "insert into users ( username, password ) values ( '".$this->safePost['username']."', '".$this->safePost['password']."' );";
-			echo 'this is a form handler';
-				
-
+			$sqlQuery = "insert into users ( username, password ) values ( '".$this->safePost['username']."', '".$this->safePost['password']."' );";
+			$this->Database->SingleRowQuery( $sqlQuery );
 		}
 
 	}

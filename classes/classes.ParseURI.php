@@ -5,8 +5,12 @@
 		function __construct( $uri ){
 			$this->Authorization = new TAuthorization();
 //			$this->doAuthorization();
-			preg_match( '|^/([^/]+)|imsx', $uri, $pmatches );
-			$className = $pmatches[1];
+			if(	preg_match( '|^/([^/]+)|imsx', $uri, $pmatches ) ){
+				$className = $pmatches[1];
+			} else {
+				$className = 'homepage';
+			}
+
 			if( strlen( $className ) > 32 )
 				die();
 			$className = preg_replace( '|[^a-z0-9]|imsx', '', $className );
