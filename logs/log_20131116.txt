@@ -1,0 +1,19 @@
+2013 11 16 04:47:25|classes/classes.Database.php||Connected to MySQL database.
+2013 11 16 04:47:25|starting script
+2013 11 16 04:47:25|User:  Pass: 
+2013 11 16 11:11:27|classes/classes.Database.php||Connected to MySQL database.
+2013 11 16 11:11:27|classes/classes.Database.php||Connected to MySQL database.
+2013 11 16 11:11:27|starting script
+2013 11 16 11:11:27|User:  Pass: 
+2013 11 16 11:11:28|classes/classes.Database.php||Connected to MySQL database.
+2013 11 16 11:11:28|starting script
+2013 11 16 11:11:28|User:  Pass: 
+2013 11 16 11:11:28|classes/classes.Database.php||Connected to MySQL database.
+2013 11 16 11:11:28|starting script
+2013 11 16 11:11:28|User:  Pass: 
+2013 11 16 11:11:29|classes/classes.Database.php||Connected to MySQL database.
+2013 11 16 11:11:29|starting script
+2013 11 16 11:11:29|User:  Pass: 
+2013 11 16 11:11:29|classes/classes.Database.php||Connected to MySQL database.
+2013 11 16 11:11:29|starting script
+2013 11 16 11:11:29|User:  Pass: 

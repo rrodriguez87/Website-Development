@@ -1,0 +1,9 @@
+2013 11 15 01:31:13|classes/classes.Database.php||Connected to MySQL database.
+2013 11 15 01:31:13|starting script
+2013 11 15 01:31:13|User:  Pass: 
+2013 11 15 01:48:37|classes/classes.Database.php||Connected to MySQL database.
+2013 11 15 01:48:37|starting script
+2013 11 15 01:48:37|User:  Pass: 
+2013 11 15 07:07:29|classes/classes.Database.php||Connected to MySQL database.
+2013 11 15 07:07:29|starting script
+2013 11 15 07:07:29|User:  Pass: 

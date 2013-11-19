@@ -1,0 +1,81 @@
+2013 11 12 01:08:54|classes/classes.Database.php||Connected to MySQL database.
+2013 11 12 01:08:54|starting script
+2013 11 12 01:08:54|User:  Pass: 
+2013 11 12 06:03:09|classes/classes.Database.php||Connected to MySQL database.
+2013 11 12 06:03:09|starting script
+2013 11 12 06:03:09|User:  Pass: 
+2013 11 12 09:20:17|classes/classes.Database.php||Connected to MySQL database.
+2013 11 12 09:20:17|starting script
+2013 11 12 09:20:17|User:  Pass: 
+2013 11 12 09:50:53|classes/classes.Database.php||Connected to MySQL database.
+2013 11 12 09:50:53|starting script
+2013 11 12 09:50:53|User:  Pass: 
+2013 11 12 03:23:21|classes/classes.Database.php||Connected to MySQL database.
+2013 11 12 03:23:21|starting script
+2013 11 12 03:23:21|User:  Pass: 
+2013 11 12 05:04:33|classes/classes.Database.php||Connected to MySQL database.
+2013 11 12 05:04:33|starting script
+2013 11 12 05:04:33|User:  Pass: 
+2013 11 12 07:52:30|classes/classes.Database.php||Connected to MySQL database.
+2013 11 12 07:52:30|starting script
+2013 11 12 07:52:30|User:  Pass: 
+2013 11 12 11:50:07|classes/classes.Database.php||Connected to MySQL database.
+2013 11 12 11:50:07|starting script
+2013 11 12 11:50:07|User:  Pass: 
+2013 11 12 11:50:11|classes/classes.Database.php||Connected to MySQL database.
+2013 11 12 11:50:11|starting script
+2013 11 12 11:50:11|User: Roddy Pass: 0324
+2013 11 12 11:50:14|classes/classes.Database.php||Connected to MySQL database.
+2013 11 12 11:50:14|starting script
+2013 11 12 11:50:14|User:  Pass: 
+2013 11 12 11:50:17|classes/classes.Database.php||Connected to MySQL database.
+2013 11 12 11:50:17|starting script
+2013 11 12 11:50:17|User:  Pass: 
+2013 11 12 11:50:32|classes/classes.Database.php||Connected to MySQL database.
+2013 11 12 11:50:32|starting script
+2013 11 12 11:50:32|User:  Pass: 
+2013 11 12 11:51:46|classes/classes.Database.php||Connected to MySQL database.
+2013 11 12 11:51:46|starting script
+2013 11 12 11:51:46|User:  Pass: 
+2013 11 12 11:52:00|classes/classes.Database.php||Connected to MySQL database.
+2013 11 12 11:52:00|starting script
+2013 11 12 11:52:00|User:  Pass: 
+2013 11 12 11:52:00|classes/classes.Database.php||Connected to MySQL database.
+2013 11 12 11:52:00|starting script
+2013 11 12 11:52:00|User:  Pass: 
+2013 11 12 11:52:04|classes/classes.Database.php||Connected to MySQL database.
+2013 11 12 11:52:04|starting script
+2013 11 12 11:52:04|User: rea Pass: fdafda
+2013 11 12 11:52:08|classes/classes.Database.php||Connected to MySQL database.
+2013 11 12 11:52:08|starting script
+2013 11 12 11:52:08|User: fdafd Pass: feww
+2013 11 12 11:52:12|classes/classes.Database.php||Connected to MySQL database.
+2013 11 12 11:52:12|starting script
+2013 11 12 11:52:12|User: fdaf Pass: vdafda
+2013 11 12 11:52:16|classes/classes.Database.php||Connected to MySQL database.
+2013 11 12 11:52:16|starting script
+2013 11 12 11:52:16|User: Roddy Pass: 0324
+2013 11 12 11:52:19|classes/classes.Database.php||Connected to MySQL database.
+2013 11 12 11:52:19|starting script
+2013 11 12 11:52:19|User:  Pass: 
+2013 11 12 11:54:12|classes/classes.Database.php||Connected to MySQL database.
+2013 11 12 11:54:12|starting script
+2013 11 12 11:54:12|User:  Pass: 
+2013 11 12 11:54:13|classes/classes.Database.php||Connected to MySQL database.
+2013 11 12 11:54:13|starting script
+2013 11 12 11:54:13|User:  Pass: 
+2013 11 12 11:54:14|classes/classes.Database.php||Connected to MySQL database.
+2013 11 12 11:54:14|starting script
+2013 11 12 11:54:14|User:  Pass: 
+2013 11 12 11:55:30|classes/classes.Database.php||Connected to MySQL database.
+2013 11 12 11:55:30|starting script
+2013 11 12 11:55:30|User:  Pass: 
+2013 11 12 11:55:31|classes/classes.Database.php||Connected to MySQL database.
+2013 11 12 11:55:31|starting script
+2013 11 12 11:55:31|User:  Pass: 
+2013 11 12 11:56:50|classes/classes.Database.php||Connected to MySQL database.
+2013 11 12 11:56:50|starting script
+2013 11 12 11:56:50|User:  Pass: 
+2013 11 12 11:56:52|classes/classes.Database.php||Connected to MySQL database.
+2013 11 12 11:56:52|starting script
+2013 11 12 11:56:52|User:  Pass: 
